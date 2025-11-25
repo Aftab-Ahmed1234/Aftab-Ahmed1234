@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aftab-Ahmed1234
 - 👀 I’m interested in Development 
-- 🌱 I’m currently learning Web Development and Machine Learning
+- 🌱 I’m currently Working on Web Development and Machine Learning
 - 📫 How to reach me aftabbhan.bscssef20@iba-suk.edu.pk
 
 
